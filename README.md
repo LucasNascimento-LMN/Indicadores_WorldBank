@@ -16,4 +16,5 @@
 
 📌 Metodologia: CRISP-DM
 
-### Conforme for evouluindo nos passos do projeto irei atualizando por aqui e também farei posts no likedin - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-6088662b2)
+### Conforme for evouluindo nos passos do projeto irei atualizando por aqui e também farei posts no likedin:
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-6088662b2)
